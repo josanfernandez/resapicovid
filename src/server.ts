@@ -1,6 +1,5 @@
 import express from 'express'
 import cors from 'cors'
-import { heroRoutes } from './routes/heroRoutes'
 import { comunidadesRoutes } from './routes/comunidadRoutes'
 import { provinciasRoutes } from './routes/provinciaRoutes'
 import { municipiosRoutes } from './routes/municipiosRoutes'
